@@ -1,9 +1,10 @@
 # internship-task3
 Internship
- Aim
+
+Aim:
 To implement both Simple and Multiple Linear Regression techniques using the House Price Prediction Dataset, and evaluate the model performance using appropriate metrics. The objective is to understand regression modeling, interpretation of coefficients, and the evaluation of predictive accuracy in real-world data.
 
- Introduction
+Introduction:
 Linear regression is one of the most fundamental algorithms in supervised machine learning. It models the linear relationship between independent variables (features) and a dependent variable (target).
 
 This task focuses on:
